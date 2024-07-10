@@ -1,0 +1,16 @@
+{
+  "name": "44-serlokas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tropikalis/44-serlokas.git"
+  },
+  "keywords": [],
+  "author": "tropikalis",
+  "license": "MIT"
+}
