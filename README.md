@@ -8,7 +8,7 @@ HTML CSS learning project for begginers.
 
 Site published at: https://tropikalis.github.io/44-serlokas/
 
-Design: [Serlokas] https://tropikalis.github.io/44-serlokas-coming-soon/
+Design: [Serlokas] (https://medium.muz.li/404-page-inspiration-de4ec8618693)
 
 ## 🎯 Project features/goals
 
